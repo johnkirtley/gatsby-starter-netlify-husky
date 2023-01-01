@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Husky Tips and Tricks
-image: /img/home-jumbotron.jpg
+image: /img/white-siberian-husky.webp
 heading: Great coffee with a conscience
 subheading: Dedicated to helping fellow Siberian Husky owners
 mainpitch:
