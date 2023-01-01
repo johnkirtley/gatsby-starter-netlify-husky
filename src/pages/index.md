@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Husky Tips and Tricks
+image: /img/white-siberian-husky.webp
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Dedicated to helping fellow Siberian Husky owners
 mainpitch:
   title: Why Kaldi
   description: >
