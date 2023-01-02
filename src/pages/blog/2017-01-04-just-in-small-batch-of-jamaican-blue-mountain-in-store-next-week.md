@@ -1,14 +1,13 @@
 ---
 templateKey: blog-post
-title: Siberian Husky Nutrition Tips
+title: Husky Nutrition Tips
 date: 2023-01-01T20:44:34.459Z
-description: First, it's important to understand that Siberian huskies are
-  classified as working dogs. This means that they have higher energy needs than
-  sedentary breeds and require a diet that is high in protein and calories to
-  support their active lifestyle. In general, a Siberian husky's diet should
-  consist of high-quality, nutrient-dense dog food that is formulated for
-  working breeds.
-featuredpost: true
+description: First, it's important to understand that Huskies are classified as
+  working dogs. This means that they have higher energy needs than sedentary
+  breeds and require a diet that is high in protein and calories to support
+  their active lifestyle. In general, a Siberian husky's diet should consist of
+  high-quality, nutrient-dense dog food that is formulated for working breeds.
+featuredpost: false
 featuredimage: /img/1.webp
 tags: []
 ---
