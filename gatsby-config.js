@@ -3,9 +3,11 @@ module.exports = {
     title: "Husky Tips and Tricks",
     description:
       "Dedicated to helping fellow Siberian Husky owners",
+    siteUrl: 'https://huskytipsandtricks.com'
   },
   plugins: [
     "gatsby-plugin-react-helmet",
+    "gatsby-plugin-sitemap",
     {
       resolve: "gatsby-plugin-sass",
       options: {
