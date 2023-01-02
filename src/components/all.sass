@@ -13,6 +13,9 @@ $black: #2b2523
 .navbar .navbar-menu
   box-shadow: none !important
 
+.section
+    padding-top: 1rem !important
+
 .content .taglist
   list-style: none
   margin-bottom: 0
@@ -37,7 +40,7 @@ $black: #2b2523
   right: 50%
   margin: 2em -50vw
   background-size: cover
-  background-position: bottom
+  background-position: center
   display: flex
   justify-content: center
   align-items: center
@@ -46,7 +49,7 @@ $black: #2b2523
     width: 100vw
     height: 400px
     background-size: cover
-    background-position: bottom
+    background-position: center
     display: flex
     justify-content: center
     align-items: center
@@ -114,7 +117,7 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item.is-featured
-  background-color: #d6400033
+  background-color: rgb(109 137 173 / 20%)
 .blog-list-item header
   display: flex
   margin-bottom: 1em
@@ -124,6 +127,7 @@ $menu-label-color: $white-ter
 
 .blog img 
     height: 20rem
+
 
 @import "~bulma"
 
@@ -140,3 +144,5 @@ $menu-label-color: $white-ter
     text-align: center
     max-width: 70%
     margin: 0 0 1em
+  .blog p, h1, h2
+    text-align: center

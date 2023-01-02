@@ -8,7 +8,7 @@ export default function FullWidthImage(props) {
     img,
     title,
     subheading,
-    imgPosition = "top left",
+    imgPosition = "center",
   } = props;
 
   return (
@@ -71,9 +71,9 @@ export default function FullWidthImage(props) {
               <h1
                 className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
                 style={{
-                  boxShadow:
-                    "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-                  backgroundColor: "rgb(255, 68, 0)",
+                    boxShadow:
+                    "style=rgb(109, 137, 173) 0.5rem 0px 0px, rgb(109, 137, 173) -0.5rem 0px 0px",
+                  backgroundColor: "#6d89ad",
                   color: "white",
                   lineHeight: "1",
                   padding: "0.25em",
@@ -84,11 +84,11 @@ export default function FullWidthImage(props) {
             )}
             {subheading && (
               <h3
-                className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+                className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen has-text-centered"
                 style={{
-                  boxShadow:
-                    "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-                  backgroundColor: "rgb(255, 68, 0)",
+                    boxShadow:
+                    "style=rgb(109, 137, 173) 0.5rem 0px 0px, rgb(109, 137, 173) -0.5rem 0px 0px",
+                  backgroundColor: "#6d89ad",
                   color: "white",
                   lineHeight: "1",
                   padding: "0.25rem",

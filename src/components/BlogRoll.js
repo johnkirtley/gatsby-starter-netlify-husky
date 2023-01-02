@@ -37,12 +37,13 @@ class BlogRollTemplate extends React.Component {
                   ) : null}
                   <p className="post-meta">
                     <Link
-                      className="title has-text-primary is-size-4"
+                      className="title is-size-4"
+                      style={{fontColor: 'rgb(109, 137, 173)'}}
                       to={post.fields.slug}
                     >
                       {post.frontmatter.title}
                     </Link>
-                    <span> &bull; </span>
+                    <span> </span>
                     <span className="subtitle is-size-5 is-block">
                       {post.frontmatter.date}
                     </span>
