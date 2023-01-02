@@ -7,7 +7,7 @@ description: First, it's important to understand that Huskies are classified as
   breeds and require a diet that is high in protein and calories to support
   their active lifestyle. In general, a Siberian husky's diet should consist of
   high-quality, nutrient-dense dog food that is formulated for working breeds.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/1.webp
 tags: []
 ---
