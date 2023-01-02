@@ -9,6 +9,7 @@ export default class BlogIndexPage extends React.Component {
       <Layout>
         <div
           className="full-width-image-container margin-top-0"
+          style={{height: '200px'}}
         >
           <h1
             className="has-text-weight-bold is-size-1"
