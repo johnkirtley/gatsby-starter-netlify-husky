@@ -58,6 +58,8 @@ BlogPostTemplate.propTypes = {
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
 
+  const strippedMetaDesc = post.frontmatter.description.slice(0, 150)
+
   return (
     <Layout>
       <BlogPostTemplate
@@ -69,7 +71,7 @@ const BlogPost = ({ data }) => {
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="description"
-              content={`${post.frontmatter.description}`}
+              content={`${strippedMetaDesc}`}
             />
           </Helmet>
         }
