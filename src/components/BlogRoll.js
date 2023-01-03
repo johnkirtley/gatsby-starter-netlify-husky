@@ -41,7 +41,7 @@ class BlogRollTemplate extends React.Component {
                       style={{fontColor: 'rgb(109, 137, 173)'}}
                       to={post.fields.slug}
                     >
-                      {post.frontmatter.title}
+                      <h2>{post.frontmatter.title}</h2>
                     </Link>
                     <span> </span>
                     {/* <span className="subtitle is-size-5 is-block">
