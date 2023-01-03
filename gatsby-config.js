@@ -11,7 +11,6 @@ module.exports = {
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-advanced-sitemap",
-    "gatsby-plugin-remove-trailing-slashes",
     {
         resolve: 'gatsby-plugin-robots-txt',
         options: {
