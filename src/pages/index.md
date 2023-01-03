@@ -3,7 +3,7 @@ templateKey: index-page
 title: Husky Tips and Tricks
 image: /img/white-siberian-husky.webp
 heading: Great coffee with a conscience
-subheading: Dedicated to helping fellow Siberian Husky owners
+subheading: Simple and Straight To The Point. Created By A Loving Husky Owner.
 mainpitch:
   title: Why Kaldi
   description: >
