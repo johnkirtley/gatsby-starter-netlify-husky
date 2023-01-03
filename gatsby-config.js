@@ -1,3 +1,4 @@
+const siteUrl = 'https://huskytipsandtricks.com'
 
 module.exports = {
     
@@ -5,11 +6,19 @@ module.exports = {
     title: "Husky Tips and Tricks",
     description:
       "Dedicated to helping fellow Siberian Husky owners",
-    siteUrl: "https://huskytipsandtricks.com",
+    siteUrl: siteUrl,
   },
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-advanced-sitemap",
+    {
+        resolve: 'gatsby-plugin-robots-txt',
+        options: {
+            host: siteUrl,
+            sitemap: `${siteUrl}/sitemap.xml`,
+            policy: [{userAgent: '*', allow: '/'}]
+        }
+    },
     {
       resolve: "gatsby-plugin-sass",
       options: {
