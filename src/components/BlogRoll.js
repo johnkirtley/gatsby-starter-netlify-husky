@@ -39,7 +39,7 @@ class BlogRollTemplate extends React.Component {
                     <Link
                       className="title is-size-4"
                       style={{fontColor: 'rgb(109, 137, 173)'}}
-                      to={post.fields.slug}
+                      to={`${post.fields.slug}`}
                     >
                       <h2>{post.frontmatter.title}</h2>
                     </Link>
@@ -53,7 +53,7 @@ class BlogRollTemplate extends React.Component {
                   {post.excerpt}
                   <br />
                   <br />
-                  <Link className="button" to={post.fields.slug}>
+                  <Link className="button" to={`${post.fields.slug}`}>
                     Keep Reading →
                   </Link>
                 </p>
