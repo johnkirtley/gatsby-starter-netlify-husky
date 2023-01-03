@@ -20,6 +20,12 @@ module.exports = {
         }
     },
     {
+        resolve: 'gatsby-plugin-canonical-urls',
+        options: {
+            siteUrl: siteUrl
+        }
+    },
+    {
       resolve: "gatsby-plugin-sass",
       options: {
         sassOptions: {
