@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: "Husky Tips and Tricks",
     description:
-      "Dedicated to helping fellow Siberian Husky owners",
+      "Providing Husky owners with tips/tricks that can help them take care of their furry friends, while also giving helpful and interesting Husky information.",
     siteUrl: siteUrl,
   },
   plugins: [
