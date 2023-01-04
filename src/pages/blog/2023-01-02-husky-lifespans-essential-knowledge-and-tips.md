@@ -11,7 +11,6 @@ featuredimage: /img/healthy-husky-puppies_1.jpg
 ---
 ## Average Lifespan
 
-
 The average lifespan of a husky is about 12-15 years. This is similar to the lifespan of other breeds of similar size, such as German Shepherds and Golden Retrievers. However, it is important to note that this is just an average, and individual huskies can live longer or shorter lives depending on various factors.
 
 ## Main Factors
@@ -19,6 +18,8 @@ The average lifespan of a husky is about 12-15 years. This is similar to the lif
 One of the main factors that can affect a husky's lifespan is genetics. Some huskies may be predisposed to certain health conditions or diseases that can shorten their lifespan. For example, hip dysplasia, a common joint problem in large breeds, can lead to mobility issues and pain in older huskies. Other genetic conditions that can affect a husky's lifespan include eye problems, skin allergies, and thyroid issues.
 
 While genetics cannot be changed, there are several things that can be done to help a husky live a longer, healthier life. One of the most important things is to provide proper nutrition. A high-quality, species-appropriate diet is essential for a husky's overall health and well-being. This means choosing a diet that is rich in protein and nutrients, and avoiding cheap, low-quality options that are high in fillers and additives.
+
+* **Here's a food brand we've loved for years:** [Taste of the Wild High Prairie](https://amzn.to/3GnPYDg)
 
 ## Tips to Prolong your Huskie's Lifespan
 
@@ -28,10 +29,10 @@ Exercise is also important for a husky's health and longevity. Huskies are energ
 
 Here are a few tools and accessories we use with our own Husky to try and keep him active:
 
-* Leash
-* Dog toy
-* Dog vest
-* Dog balls
+* **Leash:** [TUG 360° Tangle-Free Retractable Dog Leash | 16 ft Strong Nylon Tape | One-Handed Brake, Pause, Lock](https://amzn.to/3CngTh8)
+* **Chew Toy:** [Dog Chew Toys for Aggressive Chewers, Food Grade Non-Toxic](https://amzn.to/3WOwEG4)
+* **Harness:** [Rabbitgoo Dog Harness](https://amzn.to/3Qesyo6)
+* **Ball for playing fetch:** [ChuckIt! Ultra Ball](https://amzn.to/3ih7wbZ)
 
 ## Additional Tips
 
