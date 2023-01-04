@@ -17,13 +17,16 @@ export const BlogPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content;
 
-  const links = document.querySelectorAll('.blog div h2 a');
+  if (document !== undefined) {
+    const links = document.querySelectorAll('.blog div h2 a');
 
-  if (links.length > 0) {
-    links.forEach((link) => {
-        link.target = "_blank"
-    })
+    if (links.length > 0) {
+      links.forEach((link) => {
+          link.target = "_blank"
+      })
+    }
   }
+
 
   return (
     <section className="section">
