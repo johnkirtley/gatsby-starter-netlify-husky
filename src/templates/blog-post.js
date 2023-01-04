@@ -41,6 +41,7 @@ export const BlogPostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
+            <div className="disclaimer"><b>Disclaimer:</b> This post may contain affiliate links and I may earn a small commission when you click on the links at no additional cost to you. As an Amazon Affiliate, I earn from qualifying purchases. Thank you!</div>
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
