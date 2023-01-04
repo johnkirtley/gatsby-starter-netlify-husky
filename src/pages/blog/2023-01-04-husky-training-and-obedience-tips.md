@@ -13,9 +13,22 @@ featuredimage: /img/husky-training-the-5-key-principles-of-training-a-husky.jpg
 
 First and foremost, it is important to establish yourself as the leader of the pack. Huskies are pack animals and they need a strong, confident leader to follow. In order to establish your leadership, you should make sure you are the one who controls the resources, such as food, toys, and attention. You should also set clear rules and boundaries for your husky to follow, and consistently enforce them.
 
+We use various storage solutions for our Husky's food, treats, and toys to ensure they know we're in control of them.
+
+Here are a few items we use:
+
+* [WeatherPro Airtight Pet Food Storage Container](https://amzn.to/3i7Mhtj)
+* [Feline Ruff LARGE Dog Toys Storage Box](https://amzn.to/3WSuNQM)\
+  \
+  We prefer toy storage with lids or some closure. If there's an open top, our Husky tends to help himself.
+
 ## Train ASAP
 
 Training should begin as early as possible, ideally when your husky is still a puppy. Puppies are more receptive to learning and are more open to new experiences, so it is easier to teach them good habits from the start. Start with basic obedience training, such as teaching your husky to sit, stay, and come when called. Use positive reinforcement techniques, such as treats and praise, to encourage your husky to follow your commands.
+
+We like to use these treats for training. Our Husky loves them, as well as our other pups: 
+
+* [Blue Buffalo BLUE Bits Natural Soft-Moist Training Dog Treats](https://amzn.to/3VQCVj3)
 
 ## Let Them Socialize
 
@@ -24,6 +37,10 @@ It is also important to socialize your husky as early as possible. This means ex
 ## Keep Them Busy
 
 Huskies are intelligent and energetic, so it is important to provide them with plenty of mental and physical stimulation. This can include training sessions, interactive toys, and activities such as running, playing fetch, or agility courses. These activities can help keep your husky's mind and body active and can also help prevent boredom and destructive behavior.
+
+Our Husky loves this treat toy. It makes them work a little bit versus just being given treats/rewards:
+
+* [Interactive Treat Puzzle Dog](https://amzn.to/3icU09c)
 
 ## In Summary
 
