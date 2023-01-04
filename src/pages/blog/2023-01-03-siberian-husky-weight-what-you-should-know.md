@@ -25,6 +25,12 @@ On the other hand, it is also important for Siberian Huskies not to be underweig
 
 In order to maintain a healthy weight, it is important for Siberian Huskies to receive a balanced diet and to get enough exercise. These dogs are known to be energetic and love to run, so they require plenty of opportunities to burn off excess energy. It is important to provide your Siberian Husky with a high-quality dog food that meets their nutritional needs and to follow the feeding guidelines on the packaging. You should also be mindful of any treats or snacks that you give your dog, as these can add extra calories to their diet.
 
-## Wrap Up
+**Here's our recommended brand of food (we've tried various flavors):**
+
+* [Taste of the Wild High Prairie](https://amzn.to/3Z8PyJj)
+
+![Taste of the wild dog food](/img/49064_main._ac_sl1500_v1524669762_.jpg "Taste of the wild dog food")
+
+## [](https://amzn.to/3Z8PyJj)Wrap Up
 
 In conclusion, it is important for Siberian Huskies to maintain a healthy weight in order to prevent health issues and to ensure that they are able to live a long and happy life. By providing your dog with a balanced diet and plenty of exercise, you can help them stay at a healthy weight and enjoy a good quality of life.
