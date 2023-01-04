@@ -1,4 +1,4 @@
-import {useEffect, React} from "react";
+import * as React from "react";
 import PropTypes from "prop-types";
 import { kebabCase } from "lodash";
 import { Helmet } from "react-helmet";
@@ -17,7 +17,7 @@ export const BlogPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content;
 
-  useEffect(() => {
+  React.useEffect(() => {
     if (typeof document !== undefined) {
         const links = document.querySelectorAll('.blog div h2 a');
     
