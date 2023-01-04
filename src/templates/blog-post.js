@@ -17,7 +17,7 @@ export const BlogPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content;
 
-  if (document !== undefined) {
+  if (typeof document !== undefined) {
     const links = document.querySelectorAll('.blog div h2 a');
 
     if (links.length > 0) {
