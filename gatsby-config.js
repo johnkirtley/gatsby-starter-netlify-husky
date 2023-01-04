@@ -8,9 +8,9 @@ module.exports = {
       "Providing Husky owners with tips/tricks that can help them take care of their furry friends, while also giving helpful and interesting Husky information.",
     siteUrl: siteUrl,
   },
+  trailingSlash: "always",
   plugins: [
     "gatsby-plugin-react-helmet",
-    "gatsby-plugin-force-trailing-slashes",
     "gatsby-plugin-advanced-sitemap",
     {
         resolve: 'gatsby-plugin-robots-txt',
