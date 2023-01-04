@@ -1,4 +1,4 @@
-import React from "react";
+import {useEffect, React} from "react";
 import PropTypes from "prop-types";
 import { kebabCase } from "lodash";
 import { Helmet } from "react-helmet";
@@ -17,15 +17,19 @@ export const BlogPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content;
 
-  if (typeof document !== undefined) {
-    const links = document.querySelectorAll('.blog div h2 a');
+  useEffect(() => {
+    if (typeof document !== undefined) {
+        const links = document.querySelectorAll('.blog div h2 a');
+    
+        if (links.length > 0) {
+          links.forEach((link) => {
+              link.target = "_blank"
+          })
+        }
+      }
+  }, [])
 
-    if (links.length > 0) {
-      links.forEach((link) => {
-          link.target = "_blank"
-      })
-    }
-  }
+
 
 
   return (
