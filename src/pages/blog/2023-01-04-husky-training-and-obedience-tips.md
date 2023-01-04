@@ -30,6 +30,8 @@ We like to use these treats for training. Our Husky loves them, as well as our o
 
 * [Blue Buffalo BLUE Bits Natural Soft-Moist Training Dog Treats](https://amzn.to/3VQCVj3)
 
+![Blue buffalo training treats](/img/81d6vidlq3l._ac_sl1500_.jpg "Blue buffalo training treats")
+
 ## Let Them Socialize
 
 It is also important to socialize your husky as early as possible. This means exposing them to a variety of people, places, and situations so that they become comfortable and confident in a variety of environments. This will help prevent fearfulness and aggression as your husky grows older.
@@ -41,6 +43,8 @@ Huskies are intelligent and energetic, so it is important to provide them with p
 Our Husky loves this treat toy. It makes them work a little bit versus just being given treats/rewards:
 
 * [Interactive Treat Puzzle Dog](https://amzn.to/3icU09c)
+
+![interactive dog treat puzzle](/img/81fyb8b0ytl._ac_sl1500_.jpg "interactive dog treat puzzle")
 
 ## In Summary
 
