@@ -46,6 +46,10 @@ Our Husky loves this treat toy. It makes them work a little bit versus just bein
 
 ![interactive dog treat puzzle](/img/81fyb8b0ytl._ac_sl1500_.jpg "interactive dog treat puzzle")
 
+
+
+**Here's another article, if you're interested, that talks a little more about a Husky's behavior: [Husky Behavior: What Can I Expect?](https://huskytipsandtricks.com/blog/2023-01-02-husky-behavior-what-can-i-expect)**
+
 ## In Summary
 
 Training and obedience take time, patience, and consistency. It is important to be consistent in your expectations and in the way you reward or correct your husky's behavior. With the right approach and commitment, you can teach your husky to be a well-behaved and obedient companion.
