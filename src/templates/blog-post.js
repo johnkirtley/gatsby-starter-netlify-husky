@@ -19,7 +19,7 @@ export const BlogPostTemplate = ({
 
   React.useEffect(() => {
     if (typeof document !== undefined) {
-        const links = document.querySelectorAll('.blog div h2 a');
+        const links = document.querySelectorAll('.blog a');
     
         if (links.length > 0) {
           links.forEach((link) => {
