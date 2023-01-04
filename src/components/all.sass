@@ -89,6 +89,17 @@ $black: #2b2523
 footer.footer
   padding: 3rem 0rem 0rem
   background-color: transparent
+  display: flex
+  justify-content: space-around
+  align-items: center
+
+footer .columns
+    white-space: pre
+
+footer .content ul
+    margin-left: 0px !important
+    margin-top: 0px !important
+    text-align: center
 
 .navbar 
     min-height: 5rem !important
@@ -162,8 +173,14 @@ footer img
     margin: 0 0 1em
   .blog p, h1, h2
     text-align: center
-.navbar 
+  .navbar 
     min-height: 4rem !important
-
-.navbar-brand 
+  .navbar-brand 
     align-items: center !important
+  footer.footer
+    display: flex
+    flex-flow: column-reverse
+  footer .content ul
+    margin-left: 0px !important
+    margin-top: 0px !important
+    text-align: center

@@ -10,7 +10,7 @@ import vimeo from "../img/social/vimeo.svg";
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-text-white-ter" style={{backgroundColor: '#6d89ad'}}>
+      <footer className="footer has-text-white-ter" style={{backgroundColor: 'rgb(221 228 238)'}}>
         <div className="content has-text-centered">
           <img
             src={logo}
@@ -19,20 +19,20 @@ const Footer = class extends React.Component {
             loading="lazy"
           />
         </div>
-        <div className="content has-text-centered has-text-white-ter" style={{backgroundColor: '#6d89ad'}}>
-          <div className="container has-text-white-ter" style={{backgroundColor: '#6d89ad'}}>
+        <div className="content has-text-centered has-text-white-ter" style={{backgroundColor: 'rgb(221 228 238)'}}>
+          <div className="container has-text-white-ter" style={{backgroundColor: 'rgb(221 228 238)'}}>
             <div style={{ maxWidth: "100vw" }} className="columns">
               <div className="column is-4">
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
-                      <Link to="/" className="navbar-item">
+                      <Link to="/" className="navbar-item" style={{color: 'black'}}>
                         Home
                       </Link>
                     </li>
                     
                     <li>
-                      <Link className="navbar-item" to="/blog">
+                      <Link className="navbar-item" to="/blog" style={{color: 'black'}}>
                         Latest Posts
                       </Link>
                     </li>
