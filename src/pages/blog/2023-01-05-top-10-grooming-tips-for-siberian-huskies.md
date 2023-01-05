@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Top 10 Grooming Tips for Siberian Huskies
+title: Top 10 Grooming Tips (and some grooming tools) for Siberian Huskies
 date: 2023-01-04T23:51:44.699Z
 description: "Siberian Huskies are beautiful and intelligent dogs that are known
   for their thick, fluffy coats. Grooming a husky can be a bit of a challenge
